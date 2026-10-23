@@ -1,0 +1,11 @@
+# Step 4 — Unused preloaded streaming apps
+# Xiaomi MiTV-AXSO0 (dangal) · Android TV 9
+# Applied by CleanYourTV v2.6.0 · 2026-10-23
+# Keeping: FanCode, SonyLIV, JioCinema (user confirmed they use these)
+# Undo: tools\restore.ps1 -TvHost 192.168.29.69 tv-cleanup\step4-streaming-apps.txt
+
+com.suntv.sunnxt.mitv
+com.eros.mitv
+com.discoveryplus.mitv
+com.ddnational.prasarbharati
+net.aljazeera.english

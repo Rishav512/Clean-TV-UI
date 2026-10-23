@@ -1,0 +1,9 @@
+# Step 3 — Unused preloaded apps
+# Xiaomi MiTV-AXSO0 (dangal) · Android TV 9
+# Applied by CleanYourTV v2.6.0 · 2026-10-23
+# Undo: tools\restore.ps1 -TvHost 192.168.29.69 tv-cleanup\step3-preloaded-apps.txt
+
+com.xiaomi.mimusic2
+com.google.android.play.games
+com.google.android.videos
+com.mitv.gallery

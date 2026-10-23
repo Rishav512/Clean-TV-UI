@@ -1,0 +1,14 @@
+﻿{
+    "dock_glass":  true,
+    "cinematic_home":  true,
+    "wallpaper_order":  "sequential",
+    "wallpaper_rotation_minutes":  10,
+    "dock_apps":  [
+                      "com.google.android.youtube.tv",
+                      "com.netflix.ninja",
+                      "in.startv.hotstar",
+                      "com.amazon.amazonvideo.livingroom"
+                  ],
+    "wallpaper_dim":  25,
+    "wallpaper":  true
+}

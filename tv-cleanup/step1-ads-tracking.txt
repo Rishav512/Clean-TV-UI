@@ -1,0 +1,22 @@
+# Step 1 — Ads, tracking and sponsored content
+# Xiaomi MiTV-AXSO0 (dangal) · Android TV 9
+# Applied by CleanYourTV v2.6.0 · 2026-10-23
+# Every item is DISABLED, not uninstalled.
+# Undo: tools\restore.ps1 -TvHost 192.168.29.69 tv-cleanup\step1-ads-tracking.txt
+
+# --- Telemetry (sent to Xiaomi and Google) ---
+com.miui.tv.analytics
+com.xiaomi.statistic
+com.google.android.feedback
+com.google.android.tv.bugreportsender
+
+# --- PatchWall, sponsored rows, ad overlays ---
+com.mitv.tvhome.atv
+com.xm.webcontent
+com.xiaomi.floatingframe
+com.google.android.tvrecommendations
+com.google.android.leanbacklauncher.recommendations
+android.autoinstalls.config.xioami.dangal
+com.glance.tv
+com.mitv.tvhome.mitvplus
+co.sensara.tv.mitv

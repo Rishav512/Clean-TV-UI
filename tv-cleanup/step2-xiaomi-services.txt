@@ -1,0 +1,9 @@
+# Step 2 — Unused Xiaomi background services
+# Xiaomi MiTV-AXSO0 (dangal) · Android TV 9
+# Applied by CleanYourTV v2.6.0 · 2026-10-23
+# Undo: tools\restore.ps1 -TvHost 192.168.29.69 tv-cleanup\step2-xiaomi-services.txt
+
+com.xiaomi.mitv.tvmanager
+com.xiaomi.mitv.handbook
+com.xiaomo.tv.milegal
+com.xiaomi.mitv.updateservice
